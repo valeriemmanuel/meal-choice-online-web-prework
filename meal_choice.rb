@@ -1,3 +1,3 @@
-    def meal_choice(choice ="meat")
-      return "Your meal choice is #{choice} "
+    def meal_choice(choice)
+      puts "Your meal choice is #{choice} "
     end
